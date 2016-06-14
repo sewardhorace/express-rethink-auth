@@ -1,0 +1,25 @@
+{
+  "name": "express-rethink-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^0.8.7",
+    "bluebird": "^3.4.0",
+    "body-parser": "^1.15.1",
+    "cors": "^2.7.1",
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4",
+    "helmet": "^2.1.1",
+    "jwt-simple": "^0.5.0",
+    "moment": "^2.13.0",
+    "morgan": "^1.7.0",
+    "rethinkdb": "^2.3.2"
+  }
+}
